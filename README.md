@@ -1,4 +1,4 @@
-## Olá, sou a Jennyfer Lima.
+## Hey, I'm Jennyfer Lima.
 
 <div align="center">
   <a href="https://github.com/jennyferlima">
