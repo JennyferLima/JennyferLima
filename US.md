@@ -8,7 +8,7 @@
 
 ## Skills
 - 💡 Focus on Studies in: Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Data Science.
-- 🔧 Skills to Work with: Python, TensorFlow, PyTorch, Keras, Dart, Flutter, HTML, CSS, JavaScript, R, Natural Language Processing, Data Analysis, Computer Vision, Pattern Recognition.
+- 🔧 Skills to Work with: Python, TensorFlow, PyTorch, Keras, Natural Language Processing (NLP), Data Analysis, Computer Vision, Pattern Recognition, R, Dart, Flutter, HTML, CSS, JavaScript.
 - 🧠 Soft Skills: Analytical skills, communication skills, teamwork, problem-solving, commitment to continuous learning.
 
 ## Volunteer Work
