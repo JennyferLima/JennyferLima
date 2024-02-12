@@ -2,14 +2,14 @@
 ## <div align="center"> 👩🏽‍💻 Hello, welcome. You can call me {Jennyfer Lima} or {Jen}!</strong><p></div>
 
 ## Education
-🎓 Mathematics with emphasis in Computer Science.
-📚 Master's degree in Computer Science from UFAL with a focus on Artificial Intelligence, Machine Learning, Data Science. (Paused).
-🎓 Postgraduate degree in AI and Data Science.
+- 🎓 Mathematics with emphasis in Computer Science.
+- 📚 Master's degree in Computer Science from UFAL with a focus on Artificial Intelligence, Machine Learning, Data Science. (Paused).
+- 🎓 Postgraduate degree in AI and Data Science.
 
 ## Skills
-💡 Focus on Studies in: Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Data Science.
-🔧 Skills to Work with: Python, TensorFlow, PyTorch, Keras, Dart, Flutter, HTML, CSS, JavaScript, R, Natural Language Processing, Data Analysis, Computer Vision, Pattern Recognition.
-🧠 Soft Skills: Analytical skills, communication skills, teamwork, problem-solving, commitment to continuous learning.
+- 💡 Focus on Studies in: Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Data Science.
+- 🔧 Skills to Work with: Python, TensorFlow, PyTorch, Keras, Dart, Flutter, HTML, CSS, JavaScript, R, Natural Language Processing, Data Analysis, Computer Vision, Pattern Recognition.
+- 🧠 Soft Skills: Analytical skills, communication skills, teamwork, problem-solving, commitment to continuous learning.
 
 ## Professional Journey
 I am a technology enthusiast with a solid 3-year experience in financial analysis as CFO and Finance Director at HIDRAUTECH. During my academic journey, I delved into Computer Science and AI, resulting in published articles and a solid background in areas such as Software Engineering, Human-Computer Interaction, and UX/UI Design. My motivation to transition to Machine Learning Engineering stems from my passion for technology and the desire to apply my analytical skills to more innovative and transformative projects.
