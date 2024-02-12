@@ -1,4 +1,27 @@
-## Hey, I'm Jennyfer Lima.
+#
+
+<div align="center">Change language: <a href="https://github.com/jennyferlima/main/US.md" target="_blank">🇺🇸</a></div>
+
+## <div align="center"> 👩🏽‍💻 Olá, seja bem-vindo(a). Pode me chamar de <strong>{Jennyfer Lima} ou <strong>{Jen}!</strong><p></div>
+
+## Formação
+- 🎓 Matemática com ênfase em Ciência da Computação.
+- 📚 Mestrado em Informática pela UFAL com foco em Inteligência Artificial, Machine Learning, Ciência de Dados. (Trancado).
+- 🎓 Especialização Lato-Sensu em IA e Ciência de Dados.
+
+## Habilidades
+- 💡 **Foco nos Estudos de:** Inteligência Artificial, Machine Learning, Deep Learning, Processamento de Linguagem Natural e Ciência de Dados.
+- 🔧 **Habilidades para Trabalhar com:** Python, TensorFlow, PyTorch, Keras, Dart, Flutter, HTML, CSS, JavaScript, R, Processamento de Linguagem Natural, Análise de Dados, Visão Computacional, Reconhecimento de Padrões.
+- 🧠 **Soft Skills:** Capacidade analítica, habilidades de comunicação, trabalho em equipe, resolução de problemas, comprometimento com o aprendizado contínuo.
+
+## Trajetória Profissional
+Sou uma entusiasta da tecnologia com uma sólida experiência de 3 anos em análise financeira como CFO e Diretora Financeira na HIDRAUTECH. Durante minha jornada acadêmica, aprofundei-me em Ciência da Computação e IA, o que resultou em artigos publicados e uma bagagem sólida em áreas como Engenharia de Software, Interação Homem-Máquina e UX/UI Design. Minha motivação para migrar para Engenharia de Machine Learning vem da minha paixão pela tecnologia e do desejo de aplicar minhas habilidades analíticas em projetos mais inovadores e transformadores.
+
+## Projetos Recentes
+Atualmente, estou envolvida em um projeto de Residência Tecnológica pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA) e SOFTEX, onde estou desenvolvendo um protótipo funcional de um aplicativo de identificação de mercadorias em tempo real para pessoas com deficiência visual. Este projeto utiliza tecnologias avançadas como Reconhecimento de Imagem e Aprendizado de Máquina para proporcionar uma experiência mais inclusiva. Para mais, realizei o Curso de Capacitação em IA também por ambas instituições.
+
+#
+
 
 <div align="center">
   <a href="https://github.com/jennyferlima">
