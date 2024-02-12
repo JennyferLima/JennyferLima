@@ -2,9 +2,10 @@
 ## <div align="center"> 👩🏽‍💻 Hello, welcome. You can call me {Jennyfer Lima} or {Jen}!</strong><p></div>
 
 ## Education
-- 🎓 Mathematics with emphasis in Computer Science.
-- 📚 Master's degree in Computer Science from UFAL with a focus on Artificial Intelligence, Machine Learning, Data Science. (Paused).
+- 🎓 Mathematics with emphasis in Computer Science from UFAL.
+- 📚 Master's degree in Computer Science from UFAL with a focus on Artificial Intelligence, Machine Learning, Data Science (On hold - for now).
 - 🎓 Postgraduate degree in AI and Data Science.
+- 🎓 Technology Residency Program student at IFMA and SOFTEX.
 
 ## Skills
 - 💡 Focus on Studies in: Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Data Science.
