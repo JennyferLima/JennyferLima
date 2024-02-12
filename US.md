@@ -11,14 +11,15 @@
 - 🔧 Skills to Work with: Python, TensorFlow, PyTorch, Keras, Natural Language Processing (NLP), Data Analysis, Computer Vision, Pattern Recognition, R, Dart, Flutter, HTML, CSS, JavaScript.
 - 🧠 Soft Skills: Analytical skills, communication skills, teamwork, problem-solving, commitment to continuous learning.
 
-## Volunteer Work
-I am passionate about giving back to the community and contributing to meaningful causes. Currently, I volunteer at Manas Digitais, where I provide mentorship and contribute articles to Brazilians in Tech. Through these experiences, I further develop my technical skills and soft skills, continuously striving for personal and professional growth.
-
 ## Professional Journey
 I am a technology enthusiast with a solid 3-year experience in financial analysis as CFO and Finance Director at HIDRAUTECH. During my academic journey, I delved into Computer Science and AI, resulting in published articles and a solid background in areas such as Software Engineering, Human-Computer Interaction, and UX/UI Design. My motivation to transition to Machine Learning Engineering stems from my passion for technology and the desire to apply my analytical skills to more innovative and transformative projects.
 
 ## Recent Projects
 Currently, I am involved in a Technological Residency project by the Federal Institute of Education, Science, and Technology of Maranhão (IFMA) and SOFTEX, where I am developing a functional prototype of a real-time goods identification application for visually impaired people. This project uses advanced technologies such as Image Recognition and Machine Learning to provide a more inclusive experience. Additionally, I completed the AI Training Course also by both institutions.
+
+## Volunteer Work
+I am passionate about giving back to the community and contributing to meaningful causes. Currently, I volunteer at Manas Digitais, where I provide mentorship and contribute articles to Brazilians in Tech. Through these experiences, I further develop my technical skills and soft skills, continuously striving for personal and professional growth.
+
 
 #
 
