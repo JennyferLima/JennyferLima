@@ -14,6 +14,9 @@
 - 🔧 **Habilidades para Trabalhar com:** Python, TensorFlow, PyTorch, Keras, Dart, Flutter, HTML, CSS, JavaScript, R, Processamento de Linguagem Natural, Análise de Dados, Visão Computacional, Reconhecimento de Padrões.
 - 🧠 **Soft Skills:** Capacidade analítica, habilidades de comunicação, trabalho em equipe, resolução de problemas, comprometimento com o aprendizado contínuo.
 
+## Voluntariado
+Atualmente, sou voluntária nas Manas Digitais, onde realizo mentorias e contribuo com artigos para o Medium do Brazilians in Tech. Essas experiências me proporcionam oportunidades adicionais para adquirir habilidades técnicas e soft, além de contribuir para a comunidade e promover a diversidade na tecnologia.
+
 ## Trajetória Profissional
 Sou uma entusiasta da tecnologia com uma sólida experiência de 3 anos em análise financeira como CFO e Diretora Financeira na HIDRAUTECH. Durante minha jornada acadêmica, aprofundei-me em Ciência da Computação e IA, o que resultou em artigos publicados e uma bagagem sólida em áreas como Engenharia de Software, Interação Homem-Máquina e UX/UI Design. Minha motivação para migrar para Engenharia de Machine Learning vem da minha paixão pela tecnologia e do desejo de aplicar minhas habilidades analíticas em projetos mais inovadores e transformadores.
 
@@ -47,6 +50,8 @@ Atualmente, estou envolvida em um projeto de Residência Tecnológica pelo Insti
 <div> 
   <a href="https://www.linkedin.com/in/jennyfer-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@ojennyferlima" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+  <a href="https://www.researchgate.net/profile/Jennyfer-Lima" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a> 
+
   
   ![Snake animation](https://github.com/jennyferlima/jennyferlima/blob/output/github-contribution-grid-snake.svg)
   
