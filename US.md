@@ -11,6 +11,9 @@
 - 🔧 Skills to Work with: Python, TensorFlow, PyTorch, Keras, Dart, Flutter, HTML, CSS, JavaScript, R, Natural Language Processing, Data Analysis, Computer Vision, Pattern Recognition.
 - 🧠 Soft Skills: Analytical skills, communication skills, teamwork, problem-solving, commitment to continuous learning.
 
+## Volunteer Work
+I am passionate about giving back to the community and contributing to meaningful causes. Currently, I volunteer at Manas Digitais, where I provide mentorship and contribute articles to Brazilians in Tech. Through these experiences, I further develop my technical skills and soft skills, continuously striving for personal and professional growth.
+
 ## Professional Journey
 I am a technology enthusiast with a solid 3-year experience in financial analysis as CFO and Finance Director at HIDRAUTECH. During my academic journey, I delved into Computer Science and AI, resulting in published articles and a solid background in areas such as Software Engineering, Human-Computer Interaction, and UX/UI Design. My motivation to transition to Machine Learning Engineering stems from my passion for technology and the desire to apply my analytical skills to more innovative and transformative projects.
 
