@@ -46,6 +46,7 @@ Atualmente, estou envolvida em um projeto de Residência Tecnológica pelo Insti
  
 <div> 
   <a href="https://www.linkedin.com/in/jennyfer-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@ojennyferlima" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/jennyferlima/jennyferlima/blob/output/github-contribution-grid-snake.svg)
   
