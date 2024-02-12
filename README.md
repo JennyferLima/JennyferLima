@@ -14,14 +14,14 @@
 - 🔧 **Habilidades para Trabalhar com:** Python, TensorFlow, PyTorch, Keras, Processamento de Linguagem Natural (NLP), Análise de Dados, Visão Computacional, Reconhecimento de Padrões, R, Dart, Flutter, HTML, CSS, JavaScript.
 - 🧠 **Soft Skills:** Capacidade analítica, habilidades de comunicação, trabalho em equipe, resolução de problemas, comprometimento com o aprendizado contínuo.
 
-## Voluntariado
-Atualmente, sou voluntária nas Manas Digitais, onde realizo mentorias e contribuo com artigos para o Medium do Brazilians in Tech. Essas experiências me proporcionam oportunidades adicionais para adquirir habilidades técnicas e soft, além de contribuir para a comunidade e promover a diversidade na tecnologia.
-
 ## Trajetória Profissional
 Sou uma entusiasta da tecnologia com uma sólida experiência de 3 anos em análise financeira como CFO e Diretora Financeira na HIDRAUTECH. Durante minha jornada acadêmica, aprofundei-me em Ciência da Computação e IA, o que resultou em artigos publicados e uma bagagem sólida em áreas como Engenharia de Software, Interação Homem-Máquina e UX/UI Design. Minha motivação para migrar para Engenharia de Machine Learning vem da minha paixão pela tecnologia e do desejo de aplicar minhas habilidades analíticas em projetos mais inovadores e transformadores.
 
 ## Projetos Recentes
 Atualmente, estou envolvida em um projeto de Residência Tecnológica pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA) e SOFTEX, onde estou desenvolvendo um protótipo funcional de um aplicativo de identificação de mercadorias em tempo real para pessoas com deficiência visual. Este projeto utiliza tecnologias avançadas como Reconhecimento de Imagem e Aprendizado de Máquina para proporcionar uma experiência mais inclusiva. Para mais, realizei o Curso de Capacitação em IA também por ambas instituições.
+
+## Voluntariado
+Atualmente, sou voluntária nas Manas Digitais, onde realizo mentorias e contribuo com artigos para o Medium do Brazilians in Tech. Essas experiências me proporcionam oportunidades adicionais para adquirir habilidades técnicas e soft, além de contribuir para a comunidade e promover a diversidade na tecnologia.
 
 #
 
