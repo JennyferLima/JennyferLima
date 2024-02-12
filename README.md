@@ -1,6 +1,6 @@
 #
 
-<div align="center">Change language: <a href="https://github.com/jennyferlima/main/US.md" target="_blank">🇺🇸</a></div>
+<div align="center">Change language: <a href="https://github.com/JennyferLima/JennyferLima/blob/main/US.md" target="_blank">🇺🇸</a></div>
 
 ## <div align="center"> 👩🏽‍💻 Olá, seja bem-vindo(a). Pode me chamar de <strong>{Jennyfer Lima} ou <strong>{Jen}!</strong><p></div>
 
