@@ -11,7 +11,7 @@
 
 ## Habilidades
 - 💡 **Foco nos Estudos de:** Inteligência Artificial, Machine Learning, Deep Learning, Processamento de Linguagem Natural e Ciência de Dados.
-- 🔧 **Habilidades para Trabalhar com:** Python, TensorFlow, PyTorch, Keras, Dart, Flutter, HTML, CSS, JavaScript, R, Processamento de Linguagem Natural, Análise de Dados, Visão Computacional, Reconhecimento de Padrões.
+- 🔧 **Habilidades para Trabalhar com:** Python, TensorFlow, PyTorch, Keras, Processamento de Linguagem Natural (NLP), Análise de Dados, Visão Computacional, Reconhecimento de Padrões, R, Dart, Flutter, HTML, CSS, JavaScript.
 - 🧠 **Soft Skills:** Capacidade analítica, habilidades de comunicação, trabalho em equipe, resolução de problemas, comprometimento com o aprendizado contínuo.
 
 ## Voluntariado
