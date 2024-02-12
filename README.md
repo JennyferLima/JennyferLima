@@ -5,9 +5,10 @@
 ## <div align="center"> 👩🏽‍💻 Olá, seja bem-vindo(a). Pode me chamar de <strong>{Jennyfer Lima} ou <strong>{Jen}!</strong><p></div>
 
 ## Formação
-- 🎓 Matemática com ênfase em Ciência da Computação.
-- 📚 Mestrado em Informática pela UFAL com foco em Inteligência Artificial, Machine Learning, Ciência de Dados. (Trancado).
+- 🎓 Matemática com ênfase em Ciência da Computação pela UFAL.
+- 📚 Mestrado em Informática pela UFAL com foco em Inteligência Artificial, Machine Learning, Ciência de Dados (Trancado - por enquanto).
 - 🎓 Especialização Lato-Sensu em IA e Ciência de Dados.
+- 🎓 Estudante de Residência Tecnológica pelo IFMA e SOFTEX.
 
 ## Habilidades
 - 💡 **Foco nos Estudos de:** Inteligência Artificial, Machine Learning, Deep Learning, Processamento de Linguagem Natural e Ciência de Dados.
