@@ -12,14 +12,58 @@
 
 ## Habilidades
 - 💡 **Foco nos Estudos de:** Inteligência Artificial, Machine Learning, Deep Learning, Processamento de Linguagem Natural e Ciência de Dados.
-- 🔧 **Habilidades para Trabalhar com:** Python, TensorFlow, PyTorch, Keras, Processamento de Linguagem Natural (NLP), Análise de Dados, Visão Computacional, Reconhecimento de Padrões, R, Dart, Flutter, HTML, CSS, JavaScript.
-- 🧠 **Soft Skills:** Capacidade analítica, habilidades de comunicação, trabalho em equipe, resolução de problemas, comprometimento com o aprendizado contínuo.
+  
+- 🔧 **Habilidades para Trabalhar com:**
+   - Linguagens e Frameworks:
+     - Python, R, Dart, Flutter, HTML, CSS, JavaScript.
+   - Aprendizado de Máquina e Deep Learning:
+     - TensorFlow, PyTorch, Keras, Scikit-learn.
+   - Processamento de Linguagem Natural (NLP):
+     - Transformers (Hugging Face), spaCy, NLTK, Gensim, FastText.
+   - Visão Computacional e Reconhecimento de Padrões:
+     - OpenCV, Tesseract OCR (para leitura de texto em imagens).
+   - Manipulação e Extração de Dados de PDFs:
+     - PDFMiner, PyPDF2, Camelot (para tabelas), Tabula.
+   - Pré-processamento e Integração de Dados:
+     - Pandas, NumPy, PyTorch Dataset, BeautifulSoup (para scraping de dados adicionais).
+   - Banco de Dados:
+     - PostgreSQL, MongoDB (para armazenar e recuperar documentos).
+   - Arquitetura e Desenvolvimento de Protótipos:
+     - Docker (para contêineres), FastAPI, Flask (para APIs), Streamlit (para protótipos interativos).
+   - Gerenciamento de Projetos e Controle de Versão:
+     - Git/GitHub, CI/CD com GitHub Actions ou Jenkins.
+
+- 🧠 **Soft Skills:**
+   - Pensamento Crítico e Analítico Avançados.
+   - Comunicação Técnica Clara.
+   - Comunicação Eficaz e Colaboração.
+   - Trabalho em Equipe Interdisciplinar
+   - Orientação para Resolução de Problemas
+   - Adaptabilidade e Aprendizado Contínuo.
+   - Pensamento Estratégico.
+   - Gestão de tempo e Prioridades.
+   - Atenção aos detalhes.
+  
 
 ## Trajetória Profissional
 Sou uma entusiasta da tecnologia com uma sólida experiência de 3 anos em análise financeira como CFO e Diretora Financeira na HIDRAUTECH. Durante minha jornada acadêmica, aprofundei-me em Ciência da Computação e IA, o que resultou em artigos publicados e uma bagagem sólida em áreas como Engenharia de Software, Interação Homem-Máquina e UX/UI Design. Minha motivação para migrar para Engenharia de Machine Learning vem da minha paixão pela tecnologia e do desejo de aplicar minhas habilidades analíticas em projetos mais inovadores e transformadores.
 
+Recentemente, sou **Special Vehicles Engineering Researcher** pela **Ford**, onde faço parte de um time de pesquisa e desenvolvimento do protótipo para **análise de editais de licitações governamentais**. O objetivo do projeto é criar uma ferramenta utilizando **Processamento de Linguagem Natural (NLP), OCR e Machine Learning,** capaz de interpretar documentos em formato PDF e imagem, além de realizar a extração de texto, identificando características dos editais e sugerindo produtos Ford com base nas especificações dos órgãos governamentais. O sistema também automatiza a busca por novos editais, otimizando o trabalho de funcionários e gerando arquivos SOW (Statement of Work) com as informações necessárias, incluindo imagens dos carros especiais Ford.
+
+Com essa experiência, tenho expandido minhas habilidades em NLP, IA e automação, enquanto contribuo para inovações que impactam diretamente processos de negócios e a automação de tarefas complexas.
+
 ## Projetos Recentes
-Atualmente, estou envolvida em um projeto de Residência Tecnológica pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA) e SOFTEX, onde estou desenvolvendo um protótipo funcional de um aplicativo de identificação de mercadorias em tempo real para pessoas com deficiência visual. Este projeto utiliza tecnologias avançadas como Reconhecimento de Imagem e Aprendizado de Máquina para proporcionar uma experiência mais inclusiva. Para mais, realizei o Curso de Capacitação em IA também por ambas instituições.
+
+Atualmente, estou envolvida no desenvolvimento de um protótipo de ferramenta de análise de editais para a Ford, que visa automatizar a leitura e interpretação de licitações governamentais. O sistema será capaz de:
+
+- Ler e interpretar documentos em PDF e imagens, utilizando técnicas avançadas de OCR para extração de texto;
+- Analisar se os editais são elegíveis para os produtos Ford, com a capacidade de sugerir automóveis específicos com base nas especificações técnicas dos editais;
+- Gerar arquivos SOW com as informações do edital e imagens dos carros, facilitando a apresentação das propostas;
+- Automatizar a busca de editais abertos, otimizando os processos internos e poupando o tempo da equipe.
+
+Em paralelo, estou também engajada em um projeto de Residência Tecnológica pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA) e SOFTEX, onde estou desenvolvendo um protótipo funcional de um aplicativo de identificação de mercadorias em tempo real para pessoas com deficiência visual. Este projeto utiliza tecnologias avançadas como Reconhecimento de Imagem e Aprendizado de Máquina para proporcionar uma experiência mais inclusiva. 
+
+Além disso, participei de um Curso de Capacitação em IA promovido pelo IFMA e SOFTEX, com o objetivo de aprimorar minhas habilidades em IA e aplicar essas técnicas em projetos reais, como o mencionado anteriormente.
 
 ## Voluntariado
 Atualmente, sou voluntária nas Manas Digitais, onde realizo mentorias e contribuo com artigos para o Medium do Brazilians in Tech. Essas experiências me proporcionam oportunidades adicionais para adquirir habilidades técnicas e soft, além de contribuir para a comunidade e promover a diversidade na tecnologia.
